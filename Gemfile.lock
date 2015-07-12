@@ -1,0 +1,20 @@
+GIT
+  remote: git://github.com/bolasblack/alfredo.git
+  revision: c409f2bf6d4578048af564abb4cb69fe55fadd16
+  specs:
+    alfredo (0.1.2)
+      plist
+
+GEM
+  remote: http://ruby.taobao.org/
+  specs:
+    plist (3.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  alfredo!
+
+BUNDLED WITH
+   1.10.3
